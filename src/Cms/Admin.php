@@ -15,4 +15,4 @@ class Admin extends \ModelAdmin {
 	private static $url_segment = 'menus';
 
 	private static $menu_title = 'Menus';
-} 
+}
